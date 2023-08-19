@@ -1,12 +1,16 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Tenni Tien</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">A passionate Front End Developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning
+🔭 My project:
 
-- 📫 How to reach me **ntctien.forwork@gmail.com**
+- [Web commerce](https://github.com/tennitien/web-ecom-react-reduxV6-tailwindcss)
+- [Web movie](https://github.com/tennitien/web-movie-demo-react-API)
+- [Web booking hotel](https://github.com/tennitien/web-booking-react-demo)
+- [Web natour](https://github.com/tennitien/sass-demo-natour)
+
+📫 How to reach me **ntctien.forwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
