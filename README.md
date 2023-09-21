@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Hi 👋, I'm Tenni Tien</h1>
-<h3 align="center">A passionate Front End Developer from Viet Nam</h3>
+<h3 align="center">A passionate Developer from Viet Nam</h3>
 
 🔭 My project:
 - [Web QLBH](https://github.com/tennitien/demo-quan-ly-ban-hang-django)
